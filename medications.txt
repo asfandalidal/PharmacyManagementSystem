@@ -1,0 +1,24 @@
+Medicine Name: Panadol
+Company: GSK
+Price: 50
+Quantity: 10
+Manufacture Date: Wed Nov 08 13:55:56 PKT 2023
+Expiration Date: Sun May 18 13:55:59 PKT 2025
+Type: Tablet
+MG: 20
+Medicine Name: leflox
+Company: Pfizer
+Price: 200
+Quantity: 2
+Manufacture Date: Wed Nov 08 00:00:00 PKT 2023
+Expiration Date: Thu Nov 30 14:26:32 PKT 2023
+Type: Tablet
+MG: 50
+Medicine Name: Nospa
+Company: ABBOT
+Price: 80
+Quantity: 50
+Manufacture Date: Wed Nov 15 14:36:57 PKT 2023
+Expiration Date: Thu Nov 02 14:36:59 PKT 2023
+Type: Tablet
+MG: 50
